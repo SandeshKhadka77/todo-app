@@ -1,0 +1,38 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Flask and local runtime
+instance/
+*.log
+
+# Local database and temp files
+database.db
+*.sqlite3
+*.db
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Test and coverage outputs
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Existing local scratch file (legacy)
+tasks.json
