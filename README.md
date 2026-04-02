@@ -1,6 +1,6 @@
 # TaskFlow
 
-TaskFlow is a modern full-stack to-do application built with Flask, SQLite, and vanilla JavaScript. It includes secure authentication, dynamic task management, and a clean responsive UI designed for everyday productivity.
+TaskFlow is  to-do application built with Flask, SQLite, and vanilla JavaScript. It includes secure authentication, dynamic task management, and a clean responsive UI designed for everyday productivity.
 
 ## Screenshots
 
@@ -53,7 +53,7 @@ todo/
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/SandeshKhadka77/todo-app.git>
 cd todo
 ```
 
