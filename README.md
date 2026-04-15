@@ -4,9 +4,7 @@ TaskFlow is  to-do application built with Flask, SQLite, and vanilla JavaScript.
 
 ## Screenshots
 
-Add your screenshots in GitHub later by replacing these image paths.
 
-![Dashboard Screenshot 1](assets/screenshots/dashboard-1.png)
 ![Dashboard Screenshot 2](assets/screenshots/dashboard-2.png)
 
 ## Features
